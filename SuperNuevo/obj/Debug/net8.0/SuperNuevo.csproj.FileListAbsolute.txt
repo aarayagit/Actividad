@@ -1,0 +1,14 @@
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\bin\Debug\net8.0\SuperNuevo.exe
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\bin\Debug\net8.0\SuperNuevo.deps.json
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\bin\Debug\net8.0\SuperNuevo.runtimeconfig.json
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\bin\Debug\net8.0\SuperNuevo.dll
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\bin\Debug\net8.0\SuperNuevo.pdb
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\obj\Debug\net8.0\SuperNuevo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\obj\Debug\net8.0\SuperNuevo.AssemblyInfoInputs.cache
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\obj\Debug\net8.0\SuperNuevo.AssemblyInfo.cs
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\obj\Debug\net8.0\SuperNuevo.csproj.CoreCompileInputs.cache
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\obj\Debug\net8.0\SuperNuevo.dll
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\obj\Debug\net8.0\refint\SuperNuevo.dll
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\obj\Debug\net8.0\SuperNuevo.pdb
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\obj\Debug\net8.0\SuperNuevo.genruntimeconfig.cache
+C:\Users\aaraya\source\repos\SuperNuevo\SuperNuevo\obj\Debug\net8.0\ref\SuperNuevo.dll
